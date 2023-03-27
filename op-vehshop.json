@@ -1,5 +1,3 @@
 {
-	"NewestVersion":"3.0.0",
-	"Changes":"Full Refactor, added oxmenu, improved performance and much more.",
-	"DownloadLocation":"https://keymaster.fivem.net/"
+	"version":"3.0.0",
 }
